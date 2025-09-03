@@ -9,8 +9,6 @@ This repository contains the successful completion of five tasks assigned during
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-- [Usage](#usage)
-- [Disclaimer](#disclaimer)
 
 ## About The Project
 
