@@ -10,6 +10,7 @@ This repository contains the successful completion of five tasks assigned during
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
 
+
 ## About The Project
 
 This project is a collection of five distinct scripts, each tackling a different aspect of cybersecurity. The goal was to build functional tools that showcase foundational skills in data encryption, system monitoring, and network analysis.
